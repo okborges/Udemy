@@ -2,7 +2,7 @@ const nome = ['rafael', 'ana', 'gu'];
 for (let valor of nome) {
   console.log(valor);
 }
-
+Z;
 console.log('######');
 
 nome.forEach((valor, i) => {
